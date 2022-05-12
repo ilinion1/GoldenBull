@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Golden Bull</string>
+    <string name="facebook_app_id">5255461831187564</string>
+    <string name="info1">Information about\n the rules of the game:</string>
+    <string name="info2">Choose in your\n opinion the\n fastest animal!</string>
+    <string name="info3">And make a run!\n Check who is the king of\n the beasts in terms of speed.</string>
+    <string name="info4">If your chosen animal is the\n first to reach the finish line,\n you made the right choice\n and will receive a\n well-deserved bonus)</string>
+    <string name="info5">In the results of the game,\n  the history of the races will\n  be saved and the king of the\n  beasts will be determined!</string>
+    <string name="info6">Good game sir!</string>
+    <string name="settings1">Set how many beasts\n  participate in the race!</string>
+    <string name="settings2">Duel!</string>
+    <string name="settings3">Animal run one on one.\n Find out which one is stronger.</string>
+    <string name="settings4">Trio!</string>
+    <string name="settings5">Three predators will fight\n for the rule of these lands.</string>
+    <string name="settings6">All against all!</string>
+    <string name="settings7">Incredible battle! The most\n suitable opportunity to defeat everyone!</string>
+    <string name="result1">The king of beasts\n and wards:</string>
+    <string name="game_win">%1$s WIN!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
